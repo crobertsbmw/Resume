@@ -12,8 +12,10 @@ While studying at BYU, I started an app called LunchBox, that would help student
 ## 2013 - Brigham Young University | BS in Computer Engineering 
 Graduated in 2013
 
+
 ## Other Projects of Note
-**[deckofcardsapi.com](https://deckofcardsapi.com)** is an API I wrote in python/django mostly because I wanted to build a super easy API with no authentication that was dead simple to get started with. It did very will with the Hacker News community, and is my most popular project.
+
+**[DeckOfCardsApi.com](https://deckofcardsapi.com)** is an API I wrote in python/django mostly because I wanted to build a super easy API with no authentication that was dead simple to get started with. It did very will with the Hacker News community, and is my most popular project.
 
 **SWMonkey.com** was a project to help people save money on their Southwest Airlines flights. Southwest Airlines has a "no fees" policy on all their flights, so if your flight drops in price, you can cancel, re-book, and save the difference. I built a an app that would allow users to enter their flights, and we would track the price for them and alert them if the price dropped so that they could re-book and save money. After more than a year of litigation, I threw in the towel.
 
@@ -25,4 +27,4 @@ Graduated in 2013
 **[GraffExchange.com](https://www.graffexchange.com/)**, built with UIKit, this is an app that matches people practicing graffiti letters so that they can swap monikers for a sketch or two.
 
 
-**[pistolstats.com](https://www.pistolstats.com/)** is currently a work in progress built with Python, Django, Vue.js and Vuetify. The idea is to build a comprehensive database with all sorts of stats for pistols. I started building this as a way to promote Mantis, but have put it on the back-burner as other projects have become more exciting for me.
+**[PistolStats.com](https://www.pistolstats.com/)** is currently a work in progress built with Python, Django, Vue.js and Vuetify. The idea is to build a comprehensive database with all sorts of stats for pistols. I started building this as a way to promote Mantis, but have put it on the back-burner as other projects have become more exciting for me.
