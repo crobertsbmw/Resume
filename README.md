@@ -7,7 +7,7 @@ I started with [Mantis Tech](https://mantisx.com/) as the only iOS developer, wr
 
 ## 2012-2015 LunchBox
 
-While studying at BYU, I started an app called LunchBox, that would help students find free food on campus. It was wildly successful at accumulating users, helping people find free food, and building a cult following. It was less successful at making money. In addition to the apps, I had written dozens of python and Java scripts that would scrape Facebook and various event calendars to find these free food events.
+While studying at BYU, I started an app called LunchBox, that would help students find free food on campus. It was wildly successful at accumulating users, helping people find free food, and building a cult following. It was less successful at making money. In addition to the apps, I had written dozens of Java and Python scripts to scrape Facebook and various event calendars to find these free food events.
 
 ## 2013 - Brigham Young University | BS in Computer Engineering 
 Graduated in 2013
