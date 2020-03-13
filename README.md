@@ -1,19 +1,19 @@
 # Chase Roberts
 
 
-## 2015 - Present | Mantis Tech
+### 2015 - Present | Mantis Tech
 I started with [Mantis Tech](https://mantisx.com/) as the only iOS developer, writing objective-c, and swift, after our building out the initial iOS app, I was then asked to learn the ins and outs of Android development. They initially hired me because I had worked with them as an intern back in 2012 doing web development, and since then had done three or four Bluetooth Low Energy projects for various startups. For the last 5 years I have managed both the iOS and Android apps for our shooting performance system. In addition to objective-c, swift, and java, I have spent a lot of time writing python to do data analysis and training simple machine learning algorithms using Tensorflow and Keras. I've also worked on the user facing [data portal](https://train.mantisx.com/) written with Django.
 
 
-## 2012-2015 LunchBox
+### 2012-2015 LunchBox
 
 While studying at BYU, I started an app called LunchBox, that would help students find free food on campus. It was wildly successful at accumulating users, helping people find free food, and building a cult following. It was less successful at making money. In addition to the apps, I had written dozens of Java and Python scripts to scrape Facebook and various event calendars to find these free food events.
 
-## 2013 - Brigham Young University | BS in Computer Engineering 
+### 2013 - Brigham Young University | BS in Computer Engineering 
 Graduated in 2013
 
 
-## Other Projects of Note
+### Other Projects of Note
 
 **[DeckOfCardsApi.com](https://deckofcardsapi.com)** is an API I wrote in python/django mostly because I wanted to build a super easy API with no authentication that was dead simple to get started with. It did very well with the Hacker News community, and is my most popular project.
 
