@@ -15,7 +15,7 @@ Graduated in 2013
 
 ## Other Projects of Note
 
-**[DeckOfCardsApi.com](https://deckofcardsapi.com)** is an API I wrote in python/django mostly because I wanted to build a super easy API with no authentication that was dead simple to get started with. It did very will with the Hacker News community, and is my most popular project.
+**[DeckOfCardsApi.com](https://deckofcardsapi.com)** is an API I wrote in python/django mostly because I wanted to build a super easy API with no authentication that was dead simple to get started with. It did very well with the Hacker News community, and is my most popular project.
 
 **SWMonkey.com** was a project to help people save money on their Southwest Airlines flights. Southwest Airlines has a "no fees" policy on all their flights, so if your flight drops in price, you can cancel, re-book, and save the difference. I built an app that would allow users to enter their flights; we would track the price for them and alert them if the price dropped.  They could then re-book and save money. Southwest sued. To resolve the litigation, we agreed to a consent judgment in favor of Southwest Airlines and to abide by the website terms and conditions.
 
